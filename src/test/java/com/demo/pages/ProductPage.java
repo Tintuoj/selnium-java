@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 public class ProductPage {
     private WebDriver driver;
 
-    private By firstItemAddtoCart=By.cssSelector("button[data-test='add-to-cart-sauce-labs-backpack']");
+    private By firstItemAddtoCart=By.id("add-to-cart-sauce-labs-backpack");
     private By cartIcon=By.className("shopping_cart_link");
 
     public ProductPage(WebDriver driver){
@@ -15,6 +15,7 @@ public class ProductPage {
     
     public void addFirstItemToCart(){
         driver.findElement(firstItemAddtoCart).click();
+        
     }
 
     public void goToCart(){

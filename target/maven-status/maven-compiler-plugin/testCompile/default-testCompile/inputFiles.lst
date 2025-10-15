@@ -1,8 +1,8 @@
-C:\Users\tintu\Desktop\Tintu\ProjectsSelenium\selenium-cucumber-demo\src\test\java\com\demo\tests\BaseTest.java
-C:\Users\tintu\Desktop\Tintu\ProjectsSelenium\selenium-cucumber-demo\src\test\java\com\demo\tests\CartTest.java
-C:\Users\tintu\Desktop\Tintu\ProjectsSelenium\selenium-cucumber-demo\src\test\java\com\demo\tests\LoginTest.java
-C:\Users\tintu\Desktop\Tintu\ProjectsSelenium\selenium-cucumber-demo\src\test\java\com\demo\pages\ProductPage.java
-C:\Users\tintu\Desktop\Tintu\ProjectsSelenium\selenium-cucumber-demo\src\test\java\com\demo\tests\CheckoutTest.java
-C:\Users\tintu\Desktop\Tintu\ProjectsSelenium\selenium-cucumber-demo\src\test\java\com\demo\pages\LoginPage.java
-C:\Users\tintu\Desktop\Tintu\ProjectsSelenium\selenium-cucumber-demo\src\test\java\com\demo\pages\CheckoutPage.java
-C:\Users\tintu\Desktop\Tintu\ProjectsSelenium\selenium-cucumber-demo\src\test\java\com\demo\utils\Config.java
+/projects/selenium-cucumber-demo/src/test/java/com/demo/pages/CheckoutPage.java
+/projects/selenium-cucumber-demo/src/test/java/com/demo/pages/LoginPage.java
+/projects/selenium-cucumber-demo/src/test/java/com/demo/pages/ProductPage.java
+/projects/selenium-cucumber-demo/src/test/java/com/demo/tests/LoginTest.java
+/projects/selenium-cucumber-demo/src/test/java/com/demo/tests/CartTest.java
+/projects/selenium-cucumber-demo/src/test/java/com/demo/utils/Config.java
+/projects/selenium-cucumber-demo/src/test/java/com/demo/tests/CheckoutTest.java
+/projects/selenium-cucumber-demo/src/test/java/com/demo/tests/BaseTest.java

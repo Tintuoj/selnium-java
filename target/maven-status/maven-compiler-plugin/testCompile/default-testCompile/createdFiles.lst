@@ -1,8 +1,8 @@
-com\demo\pages\ProductPage.class
-com\demo\tests\BaseTest.class
-com\demo\pages\LoginPage.class
-com\demo\utils\Config.class
-com\demo\tests\LoginTest.class
-com\demo\tests\CartTest.class
-com\demo\tests\CheckoutTest.class
-com\demo\pages\CheckoutPage.class
+com/demo/pages/ProductPage.class
+com/demo/tests/LoginTest.class
+com/demo/utils/Config.class
+com/demo/tests/BaseTest.class
+com/demo/tests/CheckoutTest.class
+com/demo/pages/CheckoutPage.class
+com/demo/tests/CartTest.class
+com/demo/pages/LoginPage.class
